@@ -5,7 +5,7 @@ A python script that trains itself with a FB Messenger conversation and tries to
 
 After running the following python imports:
 
-    import fbchat
-    import markovify
+    pip install fbchat
+    pip install markovify
     
 the config file can be set up.
