@@ -9,8 +9,8 @@ The setup is very simple, and is only a two step process. Your facebook data is 
 
 1) Run the following python imports:
 ```
-    pip install fbchat
-    pip install markovify
+pip install fbchat
+pip install markovify
 ```
 2) Fill in your username and chat name in the config file.
 
