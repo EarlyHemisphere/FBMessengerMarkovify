@@ -5,9 +5,13 @@ NOTE: This does not require finding, downloading, or interacting with your faceb
 
 ## Setup
 
-After running the following python imports:
+The setup is very simple, and is only a two step process. Your facebook data is not needed - the email and password to your facebook account is all it takes!
+
+1) Run the following python imports:
 
     pip install fbchat
     pip install markovify
     
-the config file can be set up.
+2) Fill in your username and chat name in the config file.
+
+That's it!
